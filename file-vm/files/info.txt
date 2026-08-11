@@ -1,0 +1,2 @@
+This is another sample file stored inside VM3.
+VM1 must receive it through the network using RPC.

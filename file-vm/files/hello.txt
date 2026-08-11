@@ -1,0 +1,2 @@
+Hello from VM3 file service.
+This file is served using Go net/rpc.
